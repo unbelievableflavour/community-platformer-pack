@@ -11,7 +11,8 @@ GameObject:
   - component: {fileID: 3713433088104297286}
   - component: {fileID: 299234483266944227}
   - component: {fileID: 2577166627745073193}
-  m_Layer: 0
+  - component: {fileID: 2508277794252710850}
+  m_Layer: 9
   m_Name: Bush_Fruit.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -80,3 +81,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &2508277794252710850
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4090133865536104956}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 1
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 776717407881867128, guid: 3d9b4f5d7434b38429b27bc8fa6143a2, type: 3}

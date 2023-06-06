@@ -37,10 +37,6 @@ MonoBehaviour:
     m_Address: ICon/BT_COMMUNITY_PlatformerPack_Level_01
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 658fba41072785a42a94094eb029f82e
-    m_Address: Audio/Sound/BT_COMMUNITY_PlatformerPack_explore_tomb_loop
-    m_ReadOnly: 0
-    m_SerializedLabels: []
   - m_GUID: e8afc2acab63c274bb9e3adcc781ca09
     m_Address: Config/BT_COMMUNITY_PlatformerPack_Level_01
     m_ReadOnly: 0

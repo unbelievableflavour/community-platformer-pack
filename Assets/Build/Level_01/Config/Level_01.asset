@@ -16,7 +16,7 @@ MonoBehaviour:
   storeItemInfo: []
   sceneModInfo:
   - sceneName: BT_COMMUNITY_PlatformerPack_Level_01
-    name: Community Platformer Pack - Level 01
+    name: Platformer Pack - Level 01
     desc: A level from the community pack
   skinInfo: []
   roleModInfo: []

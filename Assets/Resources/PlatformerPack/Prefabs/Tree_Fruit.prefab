@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 4865377324086917513}
   - component: {fileID: 8370662770772801068}
   - component: {fileID: 6038876546699035366}
+  - component: {fileID: 3780313726923188196}
   m_Layer: 9
   m_Name: Tree_Fruit
   m_TagString: Untagged
@@ -81,3 +82,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!64 &3780313726923188196
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5246300255980397363}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 5923173165671226320, guid: 7b8b5cb759cbdd5448db0a750b2a8c3c, type: 3}
