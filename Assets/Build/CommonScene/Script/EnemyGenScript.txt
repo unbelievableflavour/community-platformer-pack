@@ -1,0 +1,29 @@
+
+local EnemyGen = {
+    role = "Goblin_Axe",
+    camp = "Bad",
+    action = "attackOnSight"
+}
+
+function EnemyGen:Awake()
+    self.fc = CL.CharacterMgr.Instance:SpawnRole(self.role)
+    if self.fc == nil then
+        return
+    end
+    
+    self.fc.transform.position = self.host.gameObject.transform.position
+    self.fc.transform.forward = self.host.gameObject.transform.forward
+    self.fc.attr.camp = self.camp
+
+    if self.action == "attackOnSight" then
+        self.fc.ai:StayCommand()
+        return
+    end
+
+    if self.action == "stay" then
+        self.fc.ai:StayCommand()
+        return
+    end
+end
+
+return Class(nil, nil, EnemyGen)

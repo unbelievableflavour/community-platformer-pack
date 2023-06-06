@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: 88373058911dc5840a471e5a40aa0731
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -2456780059344776365
+    second: Gem_Green|Action.001
+  - first:
+      74: 2342321821094134437
+    second: Gem_Green|Cloud_1.001Action
+  - first:
+      74: -9055734046144873626
+    second: Gem_Green|Cloud_1Action
+  - first:
+      74: -511182313700285048
+    second: Gem_Green|Cloud_2.001Action
+  - first:
+      74: -4683823853512334341
+    second: Gem_Green|Cloud_2Action
+  - first:
+      74: 641695924566884004
+    second: Gem_Green|Cloud_3.001Action
+  - first:
+      74: -3622195136698449944
+    second: Gem_Green|Cloud_3Action
+  - first:
+      74: 1103509391342191693
+    second: Gem_Green|Coin.001Action
+  - first:
+      74: 3470981393930198708
+    second: Gem_Green|Coin.001Action.003
+  - first:
+      74: -7827163981829957272
+    second: Gem_Green|Cube_Bricks.001Action
+  - first:
+      74: -3029341437641125790
+    second: Gem_Green|Cube_Bricks.005Action
+  - first:
+      74: -6626438305675860345
+    second: Gem_Green|Gem_PinkAction
+  - first:
+      74: -196041608852733065
+    second: Gem_Green|star
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

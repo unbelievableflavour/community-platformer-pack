@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 478d3b8a6f5bc1f4d920c090d80a6b3c
+  m_SerializeEntries:
+  - m_GUID: 582e7106709936b4e93afc315300c2d7
+    m_Address: LuaScript/BT_COMMUNITY_PlatformerPack_AttackOnSightScript
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: fda3f3bca0d9e394f9c3fc1f8b33123c
+    m_Address: LuaScript/BT_COMMUNITY_PlatformerPack_EnemyGenScript
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e7126875a388dbc449d842633e5c28c9
+    m_Address: LuaScript/BT_COMMUNITY_PlatformerPack_RespawnPointScript
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b54b81369cffd7b4c843f345481d99e1
+    m_Address: LuaScript/BT_COMMUNITY_PlatformerPack_SceneInitScript
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1ea7309d53aa82240a0d8bc32d1c97ca
+    m_Address: ICon/BT_COMMUNITY_PlatformerPack_Level_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 658fba41072785a42a94094eb029f82e
+    m_Address: Audio/Sound/BT_COMMUNITY_PlatformerPack_explore_tomb_loop
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: e8afc2acab63c274bb9e3adcc781ca09
+    m_Address: Config/BT_COMMUNITY_PlatformerPack_Level_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3950220e894235140b99f57a1e285409
+    m_Address: BT_COMMUNITY_PlatformerPack_Level_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 55653c56c8432504f93e3f371b4d924c
+    m_Address: Entry
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 26cc198b6f316b347a0fe5276ff50b16, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6d7e4e388465619448dd327c539fd646, type: 2}
+    - {fileID: 11400000, guid: 1d9135c94f7689a4f9d888fffd08ac08, type: 2}

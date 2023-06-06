@@ -1,0 +1,21 @@
+local table = {}
+
+function table:Awake()
+    self.player = CL.InteractCharacter.PlayerInstance
+end
+
+function table:OnTriggerEnter(collider)
+    local pu = CL.PhysicsUnit.GetPhysicsUnitTopDown(collider)
+    if pu == nil or pu.unitType ~= CL.Tagger.Tag.PlayerRole then
+        return
+    end
+
+    local lua = self.aiScriptComponent.script.self
+    if lua.fc ~= nil and lua.action == "attackOnSight" then
+        lua.fc.ai:AttackCommand(self.player.aiProxy)
+    end
+
+    self.host.gameObject:SetActive(false)
+end
+
+return Class(nil,nil,table)
