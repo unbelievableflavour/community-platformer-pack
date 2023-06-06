@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1 &841241654422676788
+--- !u!1 &5784932558434723122
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -8,47 +8,46 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 65126819347595150}
-  - component: {fileID: 3983640484149948459}
-  - component: {fileID: 1201419467466179809}
-  - component: {fileID: 5987844109983628566}
-  - component: {fileID: 3644236562258967124}
+  - component: {fileID: 6558337474717269896}
+  - component: {fileID: 7830702824159227949}
+  - component: {fileID: 5424807797314831591}
+  - component: {fileID: 5660765411685089664}
   m_Layer: 9
-  m_Name: Cube_Grass_SideBottom_Tall.044
+  m_Name: Fince_Middle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 4294967295
   m_IsActive: 1
---- !u!4 &65126819347595150
+--- !u!4 &6558337474717269896
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 841241654422676788}
-  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-  m_LocalPosition: {x: -20.9, y: 6.3, z: -15.33}
-  m_LocalScale: {x: 160.02, y: 160.02, z: 160.02}
+  m_GameObject: {fileID: 5784932558434723122}
+  m_LocalRotation: {x: -0.49991274, y: 0.50008726, z: 0.49991274, w: 0.50008726}
+  m_LocalPosition: {x: 4.55, y: 0.04, z: -2.4}
+  m_LocalScale: {x: 100, y: 100, z: 100}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &3983640484149948459
+  m_LocalEulerAnglesHint: {x: -89.98, y: 90, z: 0}
+--- !u!33 &7830702824159227949
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 841241654422676788}
-  m_Mesh: {fileID: 8131002715261596288, guid: e765e9f48d6b90148838c9d8bcd45554, type: 3}
---- !u!23 &1201419467466179809
+  m_GameObject: {fileID: 5784932558434723122}
+  m_Mesh: {fileID: -5556886552236104220, guid: f0060f3da57519540a543f4d8e1df39c, type: 3}
+--- !u!23 &5424807797314831591
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 841241654422676788}
+  m_GameObject: {fileID: 5784932558434723122}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -60,9 +59,8 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 8027599372619836701, guid: e765e9f48d6b90148838c9d8bcd45554, type: 3}
-  - {fileID: -6311603398430641927, guid: e765e9f48d6b90148838c9d8bcd45554, type: 3}
-  - {fileID: -8580863504186246832, guid: e765e9f48d6b90148838c9d8bcd45554, type: 3}
+  - {fileID: 2100000, guid: 262984c1c29da7542bc27d4f57e3ef08, type: 2}
+  - {fileID: 2100000, guid: 4ef26c5b5b31487429700ca1bf129ec8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -83,29 +81,17 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!65 &5987844109983628566
-BoxCollider:
+--- !u!64 &5660765411685089664
+MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 841241654422676788}
+  m_GameObject: {fileID: 5784932558434723122}
   m_Material: {fileID: 0}
   m_IsTrigger: 0
   m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.060601447, y: 0.08016348, z: 0.0405237}
-  m_Center: {x: -0.014699288, y: 0.024918199, z: -0.00973813}
---- !u!65 &3644236562258967124
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 841241654422676788}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 0.05964001, y: 0.10106247, z: 0.040523652}
-  m_Center: {x: 0.015180037, y: -0.014468726, z: 0.009738166}
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -5556886552236104220, guid: f0060f3da57519540a543f4d8e1df39c, type: 3}
