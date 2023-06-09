@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   script:
-    luaScript: WMD_RestoreRoleAttrScript
+    luaScript: BT_COMMUNITY_PlatformerPack_RestoreRoleAttrScript
     objList: []
     numberList: []
     stringList: []

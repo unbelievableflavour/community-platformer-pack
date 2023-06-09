@@ -80,6 +80,7 @@ crashlytics-build.properties
 *.private.0
 
 Assets/Samples/
+Assets/Mods/
 
 Assets/Samples.meta
 

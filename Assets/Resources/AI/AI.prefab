@@ -108,7 +108,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   script:
-    luaScript: UF_MAP_AttackOnSightScript
+    luaScript: BT_COMMUNITY_PlatformerPack_AttackOnSightScript
     objList:
     - name: aiScriptComponent
       value: {fileID: 1971817109524277928}
@@ -270,7 +270,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   script:
-    luaScript: UF_MAP_EnemyGenScript
+    luaScript: BT_COMMUNITY_PlatformerPack_EnemyGenScript
     objList: []
     numberList: []
     stringList:

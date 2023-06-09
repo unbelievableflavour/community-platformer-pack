@@ -58,7 +58,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   script:
-    luaScript: WMD_RespawnPointScript
+    luaScript: BT_COMMUNITY_PlatformerPack_RespawnPointScript
     objList: []
     numberList: []
     stringList: []
