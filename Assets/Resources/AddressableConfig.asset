@@ -26,6 +26,6 @@ MonoBehaviour:
     document and youtube tutorial\r\n    "
   prefix: BT_COMMUNITY_PlatformerPack_
   addressablePaths:
-  - Assets/Build/Common
   - Assets/Build/CommonScene
   - Assets/Build/Level_01
+  - Assets/Build/Level_02

@@ -15,7 +15,7 @@ MonoBehaviour:
   m_GroupName: Default Local Group
   m_Data:
     m_SerializedData: []
-  m_GUID: 1fd36cb600a8ab24aa2a8097636d7b92
+  m_GUID: 27cfb56d9b8e1d54b8a45268cd739741
   m_SerializeEntries:
   - m_GUID: 582e7106709936b4e93afc315300c2d7
     m_Address: LuaScript/BT_COMMUNITY_PlatformerPack_AttackOnSightScript
@@ -51,6 +51,18 @@ MonoBehaviour:
     m_SerializedLabels: []
   - m_GUID: 3950220e894235140b99f57a1e285409
     m_Address: BT_COMMUNITY_PlatformerPack_Level_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 10f3df5914406654c81f61882e7788fb
+    m_Address: ICon/BT_COMMUNITY_PlatformerPack_Level_02
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 719debee791491d4c95958b08799ee33
+    m_Address: Config/BT_COMMUNITY_PlatformerPack_ItemInfoConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 231e61cf28411954ca2f5e8f8cefda6d
+    m_Address: BT_COMMUNITY_PlatformerPack_Level_02
     m_ReadOnly: 0
     m_SerializedLabels: []
   - m_GUID: 55653c56c8432504f93e3f371b4d924c

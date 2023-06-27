@@ -17,7 +17,7 @@ MonoBehaviour:
   sceneModInfo:
   - sceneName: BT_COMMUNITY_PlatformerPack_Level_01
     name: Platformer Pack - Level 01
-    desc: A level from the community pack
+    desc: 'Credits: UnbelievableFlavour'
   skinInfo: []
   roleModInfo: []
   hitInfo: []
